@@ -16,44 +16,46 @@ Features -
 
 Comprehensive test scenarios covering key functionalities:
 
-User login and registration
+#User login and registration
 
-Product browsing and searching
+#Product browsing and searching
 
-Adding products to the cart
+#Adding products to the cart
 
-Checkout and payment processes
+#Checkout and payment processes
 
-Order history and user profile validation
+#Order history and user profile validation
 
-Logout functionality
+#Logout functionality
 
-Detailed test case documentation with:
+#Detailed test case documentation with:
 
 Test steps
 
-Expected and actual results
+*Expected and actual results
 
-Pass/Fail status
+*Pass/Fail status
 
-Bug tracking and reporting for identified issues.
+*Tools and Resources
 
-Tools and Resources
+
 
 Test Documentation: Microsoft Excel
 
 
 Testing Type:
 
-Functional Testing
+1.Functional Testing
 
-Regression Testing
+2.Regression Testing
 
-UI/UX Testing
+3.UI/UX Testing
 
-Smoke and Sanity Testing
+4.Smoke and Sanity Testing
+
 
 Platform: Web (tested on browsers like Chrome, Firefox, etc.)
+
 
 Project Artifacts
 The following artifacts are included in this repository:
@@ -67,13 +69,13 @@ High-level scenarios outlining various workflows and modules tested.
 Test Cases:
 
 Step-by-step test cases documented in Excel format.
-Fields include:
-Test Case ID
-Test Description
-Preconditions
-Test Steps
-Expected Result
-Actual Result
-Status (Pass/Fail)
+#Fields include:
+1.Test Case ID
+2.Test Description
+3.Preconditions
+4.Test Steps
+5.Expected Result
+6.Actual Result
+7.Status (Pass/Fail)
 
 
