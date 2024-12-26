@@ -15,26 +15,44 @@ This project involves manual testing of an e-commerce website to ensure its func
 Features - 
 
 Comprehensive test scenarios covering key functionalities:
+
 User login and registration
+
 Product browsing and searching
+
 Adding products to the cart
+
 Checkout and payment processes
+
 Order history and user profile validation
+
 Logout functionality
+
 Detailed test case documentation with:
+
 Test steps
+
 Expected and actual results
+
 Pass/Fail status
+
 Bug tracking and reporting for identified issues.
+
 Tools and Resources
+
 Test Documentation: Microsoft Excel
 
 
 Testing Type:
+
 Functional Testing
+
 Regression Testing
+
 UI/UX Testing
+
 Smoke and Sanity Testing
+
 Platform: Web (tested on browsers like Chrome, Firefox, etc.)
 
 Project Artifacts
